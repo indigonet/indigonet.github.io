@@ -13,21 +13,21 @@ Duoc UC (2020-2023)
 - Desarrollo de soluciones de gestión para notarias, enfocándome en el Frontend.
 - Aseguramiento de calidad (QA) para aplicaciones de punto de venta (POS).
 - Gestión y documentación de proyectos.
-
+<div></div> 
   ---
 <div></div> 
 ### Desarrollador y Gestión - Alloxentric (Octubre 2023 - Enero 2024 )
 - Creación de interfaces de agente de voz utilizando **Vue.js**, **MongoDB** y **Docker**.
 - Desarrollo Full-Stack, abarcando tanto el **Frontend** como el **Backend**.
 - Implementación de soluciones móviles utilizando **Python**, **CSS** y **Angular**.
-
+<div></div> 
 ---
 <div></div>
 ### Analista BI - Loentrego (Abril 2023 - Septiembre 2023)
 - Manejo de bases de datos y análisis de datos para optimizar procesos.
 - Migración de informes de **Data Studio** a **Power BI**.
 - Desarrollo de funciones avanzadas en **Power BI** para el análisis de compraventa y presentación de datos.
-
+<div></div> 
 ## 🛠 Habilidades
 
 ### Lenguajes de Programación
@@ -134,6 +134,6 @@ Duoc UC (2020-2023)
 
 ---
 
-<div style="margin-bottom: 10px;">
+<div></div>
 ¡Gracias por revisar mi perfil! Estoy siempre abierto a nuevas oportunidades y colaboraciones.
-</div>!
+
