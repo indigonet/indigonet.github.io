@@ -1,9 +1,9 @@
 Desarrollador de software Full-Stack enfocado en crear soluciones innovadoras para grandes clientes. Mi trayectoria profesional ha estado marcada por la implementación de soluciones integrales y eficientes en diversos proyectos, utilizando tecnologías como **React**, **Angular**, **C#**, **Python**, y bases de datos como **SQL** y **Oracle**. Estoy comprometido con el continuo crecimiento de mis habilidades en desarrollo web y busco siempre nuevos desafíos que me permitan contribuir al éxito de los equipos con los que trabajo.
 
 ## 🎓 Educación
-Titulado de Ingeniero en Informática
+- Titulado de Ingeniero en Informática
 Duoc UC (2020-2023)
-Colegio Alberto Blest Gana (2016-2019) Tecnológico.
+- Colegio Alberto Blest Gana (2016-2019) Tecnológico.
 
 ## 💼 Experiencia
 
@@ -27,7 +27,13 @@ Colegio Alberto Blest Gana (2016-2019) Tecnológico.
 ## 🛠 Habilidades
 
 ### Lenguajes de Programación
-<p> <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"> <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white"> <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> </p>
+<p> 
+  - <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"> 
+  - <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"> 
+  - <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black">
+  - <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
+  - <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white">
+  - <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> </p>
 
 ### Frameworks, Plataformas & Bibliotecas
 <p> <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"> <img alt="Angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white"> <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"> <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"> <img alt="MUI" src="https://img.shields.io/badge/mui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white"> <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"> <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"> <img alt="NPM" src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"> <img alt="Ionic" src="https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white"> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"> <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D"> <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white"> <img alt="WordPress" src="https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white"> <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"> </p>
