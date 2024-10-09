@@ -1,4 +1,4 @@
 # add the following to _config.yml file
 title: Matias Peñaloza
-show_downloads: true
-theme: jeykll-theme-minimal
+# show_downloads: true
+theme: minima
