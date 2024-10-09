@@ -1,4 +1,4 @@
-Desarrollador de software Full-Stack enfocado en crear soluciones innovadoras para grandes clientes. Mi trayectoria profesional ha estado marcada por la implementación de soluciones integrales y eficientes en diversos proyectos, utilizando tecnologías como **React**, **Angular**, **C#**, **Python**, y bases de datos como **SQL** y **Oracle**. Estoy comprometido con el continuo crecimiento de mis habilidades en desarrollo web y busco siempre nuevos desafíos que me permitan contribuir al éxito de los equipos con los que trabajo.
+Desarrollador de software Full-Stack enfocado en crear soluciones innovadoras para grandes clientes. Mi trayectoria profesional ha estado marcada por la implementación de soluciones integrales y eficientes en diversos proyectos, utilizando tecnologías como **React**, **JavaScrip**, **C#**, **Python**, y bases de datos como **SQL** y **Oracle**. Estoy comprometido con el continuo crecimiento de mis habilidades en desarrollo web y busco siempre nuevos desafíos que me permitan contribuir al éxito de los equipos con los que trabajo.
 
 ## 🎓 Educación
 - Titulado de Ingeniero en Informática
@@ -43,13 +43,14 @@ Duoc UC (2020-2023)
   <img alt="Angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <div>
+  <div></div>
   <img alt="MUI" src="https://img.shields.io/badge/mui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="NPM" src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="Ionic" src="https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
-  </div>
+  <div></div>
+  <div></div>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
   <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white">
