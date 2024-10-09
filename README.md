@@ -133,5 +133,6 @@ Duoc UC (2020-2023)
 - **LinkedIn**: [matiasp10](https://www.linkedin.com/in/matiasp10/)
 
 ---
-
+<div style="margin-bottom: 10px;">
 ¡Gracias por revisar mi perfil! Estoy siempre abierto a nuevas oportunidades y colaboraciones.
+</div>![logo](https://github.com/user-attachments/assets/a4867df7-4bfc-4d09-b933-b53eace6d2de)
