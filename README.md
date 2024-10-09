@@ -15,14 +15,14 @@ Duoc UC (2020-2023)
 - Gestión y documentación de proyectos.
 
   ---
-
-### Desarrollador y Gestión - Alloxentric (Octubre 2023 - Enerp 2024 )
+<div></div> 
+### Desarrollador y Gestión - Alloxentric (Octubre 2023 - Enero 2024 )
 - Creación de interfaces de agente de voz utilizando **Vue.js**, **MongoDB** y **Docker**.
 - Desarrollo Full-Stack, abarcando tanto el **Frontend** como el **Backend**.
 - Implementación de soluciones móviles utilizando **Python**, **CSS** y **Angular**.
 
 ---
-
+<div></div>
 ### Analista BI - Loentrego (Abril 2023 - Septiembre 2023)
 - Manejo de bases de datos y análisis de datos para optimizar procesos.
 - Migración de informes de **Data Studio** a **Power BI**.
@@ -50,8 +50,6 @@ Duoc UC (2020-2023)
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
 </div>
 
-<hr>
-
 <div style="margin-bottom: 10px;">
   <img alt="MUI" src="https://img.shields.io/badge/mui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
@@ -59,8 +57,6 @@ Duoc UC (2020-2023)
   <img alt="NPM" src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="Ionic" src="https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
 </div>
-
-<hr>
 
 <div>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
