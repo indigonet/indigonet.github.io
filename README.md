@@ -66,6 +66,7 @@ Duoc UC (2020-2023)
   <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
 </div>
 
+<div></div>
 ### Hosting/SaaS
 <p> 
   <img alt="Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
@@ -108,7 +109,7 @@ Duoc UC (2020-2023)
 - Familiaridad con software de edición como **Photoshop** y edición de videos.
 - Conocimientos básicos en **redes** y **hacking ético** utilizando **Kali Linux** y **Metasploit**.
 
-### 💻 Software y herramientas
+## 💻 Software y herramientas
 
 <p>
 <img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white">
