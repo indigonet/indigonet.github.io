@@ -7,19 +7,23 @@ Duoc UC (2020-2023)
 
 ## 💼 Experiencia
 
-### Desarrollador de Software Full-Stack - iOneTech (Actual)
+### Desarrollador de Software Full-Stack - iOneTech (Mayo 2024 - Actualidad)
 - Desarrollo de software de gestión comercial **Adcom** para Banco Santander **Getnet**.
 - Implementación de sistemas de punto de venta (PDV) para **Fábrica Arduini**.
 - Desarrollo de soluciones de gestión para notarias, enfocándome en el Frontend.
 - Aseguramiento de calidad (QA) para aplicaciones de punto de venta (POS).
 - Gestión y documentación de proyectos.
 
-### Desarrollador y Gestión - Alloxentric (6 meses)
+  ---
+
+### Desarrollador y Gestión - Alloxentric (Octubre 2023 - Enerp 2024 )
 - Creación de interfaces de agente de voz utilizando **Vue.js**, **MongoDB** y **Docker**.
 - Desarrollo Full-Stack, abarcando tanto el **Frontend** como el **Backend**.
 - Implementación de soluciones móviles utilizando **Python**, **CSS** y **Angular**.
 
-### Analista BI - Loentrego (5 meses)
+---
+
+### Analista BI - Loentrego (Abril 2023 - Septiembre 2023)
 - Manejo de bases de datos y análisis de datos para optimizar procesos.
 - Migración de informes de **Data Studio** a **Power BI**.
 - Desarrollo de funciones avanzadas en **Power BI** para el análisis de compraventa y presentación de datos.
@@ -37,25 +41,34 @@ Duoc UC (2020-2023)
   <img alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white"> </p>
 
 ### Frameworks, Plataformas & Bibliotecas
-<p> 
+
+<div style="margin-bottom: 10px;">
   <img alt=".NET" src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"> 
   <img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white">
   <img alt="Angular.js" src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white">
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white">
-  <div></div>
+</div>
+
+<hr>
+
+<div style="margin-bottom: 10px;">
   <img alt="MUI" src="https://img.shields.io/badge/mui-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white">
   <img alt="Next.js" src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white">
   <img alt="Node.js" src="https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white">
   <img alt="NPM" src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img alt="Ionic" src="https://img.shields.io/badge/ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
-  <div></div>
-  <div></div>
+</div>
+
+<hr>
+
+<div>
   <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
   <img alt="Vue.js" src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=%234FC08D">
   <img alt="Vuetify" src="https://img.shields.io/badge/vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white">
   <img alt="WordPress" src="https://img.shields.io/badge/wordpress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white">
-  <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"> </p>
+  <img alt="Yarn" src="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white">
+</div>
 
 ### Hosting/SaaS
 <p> 
