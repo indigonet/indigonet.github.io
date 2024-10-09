@@ -131,6 +131,7 @@ Duoc UC (2020-2023)
 
 - **Email**: [matiasfernando1002@gmail.com](mailto:matiasfernando1002@gmail.com)
 - **LinkedIn**: [matiasp10](https://www.linkedin.com/in/matiasp10/)
+- **Teléfono**: +56930974811
 
 ---
 
