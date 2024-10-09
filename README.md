@@ -1,5 +1,3 @@
-# Matías Peñaloza - Desarrollador Web
-
 Desarrollador de software enfocado en aplicaciones web, con experiencia tanto en **Frontend** como en **Backend**. Me especializo en tecnologías como **Python** y frameworks como **Angular**, **React** y **Vue**. He demostrado mis habilidades a través de prácticas laborales y proyectos significativos.
 
 ## 🛠 Experiencia
@@ -44,7 +42,3 @@ Desarrollador de software enfocado en aplicaciones web, con experiencia tanto en
 
 - **Email**: [matiasfernando1002@gmail.com](mailto:matiasfernando1002@gmail.com)
 - **LinkedIn**: [matiasp10](https://www.linkedin.com/in/matiasp10/)
-
----
-
-Este README refleja mi experiencia como desarrollador web y las habilidades que he desarrollado a lo largo de mi carrera profesional. ¡Gracias por visitar mi perfil!
